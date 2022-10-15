@@ -3,9 +3,8 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supriyosamanta1997&label=Profile%20views&color=0e75b6&style=flat" alt="supriyosamanta1997" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supriyosamanta1997" alt="supriyosamanta1997" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
