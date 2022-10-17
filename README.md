@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **supriyosamanta1997@gmail.com**
 
-- 📄 Know about me more [<a href="https://drive.google.com/file/d/1eRwXczL8jZx5wLPnkHcaS3rr8x5Jczlq/view?usp=sharing" target="_blank" download >Resume</a>](https://drive.google.com/file/d/1eRwXczL8jZx5wLPnkHcaS3rr8x5Jczlq/view?usp=sharing)
+- 📄 Know about me more <a href="https://drive.google.com/file/d/1eRwXczL8jZx5wLPnkHcaS3rr8x5Jczlq/view?usp=sharing" download="Resume" >Resume</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
