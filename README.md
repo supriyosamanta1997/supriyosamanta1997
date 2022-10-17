@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm supriyo</h1>
+<h1 align="center">Hi 👋, I'm Supriyo Samanta</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 
