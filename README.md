@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Redux and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://supriyosamanta1997.github.io/](https://supriyosamanta1997.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://supriyosamanta1997.github.io/" />Portfolio<a>
 
 - 📫 How to reach me **supriyosamanta1997@gmail.com**
 
-- 📄 Know more about me [https://drive.google.com/file/d/1eRwXczL8jZx5wLPnkHcaS3rr8x5Jczlq/view?usp=sharing](https://drive.google.com/file/d/1eRwXczL8jZx5wLPnkHcaS3rr8x5Jczlq/view?usp=sharing)
+- 📄 Know more about me <a href="https://drive.google.com/file/d/1eRwXczL8jZx5wLPnkHcaS3rr8x5Jczlq/view?usp=sharing" download="Resume" >Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
