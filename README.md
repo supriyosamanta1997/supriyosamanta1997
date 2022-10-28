@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supriyo Samanta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
+<img align="right" alt="Coding" width="400" src="[https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif](https://github.com/soumyajit4419/soumyajit4419/raw/master/thoughtworks-gif_dribbble.gif)"/>
 
 - 🔭 I’m currently working on [loseit clone](https://github.com/supriyosamanta1997/moral-riddle-2098)
 
