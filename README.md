@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supriyosamanta1997&show_icons=true&locale=en" alt="supriyosamanta1997" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriyosamanta1997&" alt="supriyosamanta1997" /></p>
+  <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
