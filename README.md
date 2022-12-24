@@ -1,5 +1,5 @@
 
-<!-- <img height="300" src="https://drive.google.com/file/d/1hHN4WuyTkZHnjle7SfEoAt0ZkeY0yAk2/view?usp=sharing" /> -->
+<!-- <img height="300" width="110% src="https://drive.google.com/file/d/1hHN4WuyTkZHnjle7SfEoAt0ZkeY0yAk2/view?usp=sharing" /> -->
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Supriyo Samanta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
